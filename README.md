@@ -1,4 +1,4 @@
-<h2 align="left">Olá, eu a sou Nicole 💻</h2>
+<h2 align="left">Olá, eu a sou a Nicole 💻</h2>
 
 ###
 <p align="left">Sou desenvolvedora Front-End e estudo desde 2022. <br><br> Sou apaixonada por resolver problemas e aprender. Sempre disponível para novos desafios! <br>
